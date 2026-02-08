@@ -1,3 +1,5 @@
+![Pixanova Preview](./public/images/9ef9f8fac5fbef34a04184e59580e188.png)
+
 # Pixanova 3D Screen Configurator (POC)
 
 POC web app in Next.js that lets a renter unlock a 3D LED screen simulator with a rental code, upload media, group/ungroup screens, and preview mapped content.
